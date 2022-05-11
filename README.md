@@ -32,7 +32,7 @@
 GCDPF - Greatest Common Divisor for Polynomials in Finite Field.
 The application allows you to work with polynomials in a finite field of integers. You can find the GCD of two polynomials as well as solve the Bezu equation. A special library was developed for this project, which can be found in my repositories.
 
-<p align="left"><img src="https://user-images.githubusercontent.com/50749554/167889666-20f86de4-5248-487d-a7f1-9e3792f4186e.png" alt="GCDPF1" width="500" height="auto" />    <img src="https://user-images.githubusercontent.com/50749554/167889681-f3cfb15f-1f46-4d28-a9ce-225d4a6f4a23.PNG" alt="GCDPF2" width="500" height="auto" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/50749554/167889666-20f86de4-5248-487d-a7f1-9e3792f4186e.png" alt="GCDPF1" width="400" height="auto" />    <img src="https://user-images.githubusercontent.com/50749554/167889681-f3cfb15f-1f46-4d28-a9ce-225d4a6f4a23.PNG" alt="GCDPF2" width="400" height="auto" /></p>
 
 ------------
 - #### SoilFreezing
@@ -56,5 +56,5 @@ SoilFreezing - An application that was written as part of one of the test assign
 - #### Wordle-ru
 Just a clone of Wordle written using .net MAUI to explore a new technology for me.
 
-<p align="left"><img src="https://user-images.githubusercontent.com/50749554/167894921-6fd573ab-5825-4f74-9690-fef5575d38ca.PNG" alt="Wordle" width="300" height="auto" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/50749554/167894921-6fd573ab-5825-4f74-9690-fef5575d38ca.PNG" alt="Wordle" width="200" height="auto" /></p>
 
