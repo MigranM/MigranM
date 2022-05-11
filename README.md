@@ -38,7 +38,7 @@ The application allows you to work with polynomials in a finite field of integer
 - #### SoilFreezing
 SoilFreezing - An application that was written as part of one of the test assignments.  This application allows mining specialists to calculate the ground freezing temperature in accordance with the regulatory documents of the Russian Federation in this area. The application also provides import and export in JSON format.
 
-<p align="left"><img src="https://user-images.githubusercontent.com/50749554/167893015-2c54a82f-68dd-4deb-ad1b-8656f73d12ca.PNG" alt="SoilFreezing" width="500" height="auto" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/50749554/167893015-2c54a82f-68dd-4deb-ad1b-8656f73d12ca.PNG" alt="SoilFreezing" width="400" height="auto" /></p>
 
 ```json
 {
