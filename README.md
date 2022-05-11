@@ -9,7 +9,7 @@
 
 - :books: I am a big fan of the The Witcher book series.
 
-- :mailbox: You can contact me: migran1995@gmail.com.
+- :mailbox: You can contact me: migran1995@gmail.com, [HH](https://krasnodar.hh.ru/resume/01596945ff086714590039ed1f327055307447 "HH").
 
 ------------
 
