@@ -1,7 +1,7 @@
 ## Hi, I'm Migran
-- :mortar_board: I am a fifth-year student at Kuban State Technological University, majoring in Information Security of Automated Systems.
+- :mortar_board: I graduated from Kuban State Technological University with majoring in Information Security of Automated Systems.
 
-- :house_with_garden: I am working from home at [Tessa](https://mytessa.ru "Tessa") as software engineer.
+- :house_with_garden: I am working from home at [SYNTELLECT](https://mytessa.ru "Tessa") as software engineer.
 
 - :telescope: I am interested in .NET development, DevOps and DevSecOps.
 
