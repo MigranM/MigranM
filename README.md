@@ -1,11 +1,9 @@
 ## Hi, I'm Migran
 - :mortar_board: I graduated from Kuban State Technological University with majoring in Information Security of Automated Systems.
 
-- :house_with_garden: I am working from home at [SYNTELLECT](https://mytessa.ru "Tessa") as software engineer.
+- :house_with_garden: Most of the time I worked from home in companies such as: Kuban Credit Bank, [SYNTELLECT](https://mytessa.ru "Tessa") and [Positive Technologies](https://www.ptsecurity.com) as software engineer.
 
-- :telescope: I am interested in .NET development, DevOps and DevSecOps.
-
-- :star2: In the future I would like to relocate to one of the European countries.
+- :telescope: I am interested in .NET development, Game Dev, DevOps and DevSecOps.
 
 - :books: I am a big fan of the The Witcher book series.
 
@@ -26,7 +24,7 @@
 
 ------------
 
-### :building_construction: Some of my Projects
+### :building_construction: Some of my projects written during my university studies (Outdated)
 
 - #### :man_scientist: GCDPF
 GCDPF - Greatest Common Divisor for Polynomials in Finite Field.
